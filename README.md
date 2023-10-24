@@ -16,18 +16,15 @@
   <li>Đăng nhập, đăng ký, đăng xuất</li>
   <li>Thêm, sửa, xóa sản phẩm và thông tin khách hàng</li>
   <li>Đặt hàng</li>
-  <li></li>
-  <li></li>
+  <li>Quản lý đơn hàng</li>
+  
 </ul>
 
 <h2>Các chức năng dự kiến phát triển</h2>
 <ul>
   <li>Tích hợp VNPay</li>
   <li>Hổ trợ đa ngôn ngữ đa khu vực</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Thêm sản phẩm vào mục yêu thích</li>
 </ul>
 
 <h2>Công nghệ sử dụng</h2>
