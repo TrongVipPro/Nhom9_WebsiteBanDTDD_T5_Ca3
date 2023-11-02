@@ -49,6 +49,6 @@
 <ul>
   <li><a href="">Nguyễn Tấn Vinh</a></li>
   <li><a href="">Trần Tiến Dũng</a></li>
-  <li><a href="">Lê Đỗ Trường Trọng</a></li>
+  <li><a href="https://www.facebook.com/truongtrong1609/">Lê Đỗ Trường Trọng</a></li>
   <li><a href="">Phạm Nguyễn Trọng Phúc</a></li>
 </ul>
