@@ -18,7 +18,10 @@
   <li>Đặt hàng</li>
   <li>Quản lý đơn hàng</li>
    <li>Filter product</li>
-  ![image](https://github.com/TrongVipPro/Nhom9_WebsiteBanDTDD_T5_Ca3/assets/100860676/54e498d3-bafa-4952-8384-325518c6a20a)
+
+![image](https://github.com/TrongVipPro/Nhom9_WebsiteBanDTDD_T5_Ca3/assets/100860676/54e498d3-bafa-4952-8384-325518c6a20a)
+
+  
 </ul>
 
 <h2>Các chức năng dự kiến phát triển</h2>
