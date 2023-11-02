@@ -17,7 +17,7 @@
   <li>Thêm, sửa, xóa sản phẩm và thông tin khách hàng</li>
   <li>Đặt hàng</li>
   <li>Quản lý đơn hàng</li>
-  
+   <li>Filter product</li>
 </ul>
 
 <h2>Các chức năng dự kiến phát triển</h2>
