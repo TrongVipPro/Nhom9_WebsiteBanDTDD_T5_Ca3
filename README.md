@@ -14,8 +14,8 @@
 <ul>
   <li>Thanh toán online, thanh toán COD</li>
   <li>Đăng nhập, đăng ký, đăng xuất</li>
-  <li>Thêm, sửa, xóa sản phẩm và thông tin khách hàng</li>
-  <li>Đặt hàng</li>
+  <li>Thêm, sửa, xóa sản phẩm và danh mục</li>
+  <li>Tạo contact có maps địa chỉ store</li>
   <li>Quản lý đơn hàng</li>
    <li>Filter product</li>
 
