@@ -48,7 +48,7 @@
 <h2>Thông tin thành viên</h2>
 <ul>
   <li><a href="https://www.facebook.com/profile.php?id=100010008221539&mibextid=LQQJ4d">Nguyễn Tấn Vinh</a></li>
-  <li><a href="">Trần Tiến Dũng</a></li>
+  <li><a href="https://www.facebook.com/profile.php?id=100033305115439&mibextid=LQQJ4d">Trần Tiến Dũng</a></li>
   <li><a href="https://www.facebook.com/truongtrong1609/">Lê Đỗ Trường Trọng</a></li>
   <li><a href="https://www.facebook.com/profile.php?id=100055909052894&mibextid=LQQJ4d">Phạm Nguyễn Trọng Phúc</a></li>
 </ul>
